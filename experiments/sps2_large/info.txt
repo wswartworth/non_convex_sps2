@@ -1,0 +1,7 @@
+data: MNIST
+method: sps2
+model size: large
+epochs: 10
+batch size: 50
+args: {'beta': 0.01}
+seed: 0
