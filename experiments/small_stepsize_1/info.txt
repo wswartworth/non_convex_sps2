@@ -3,5 +3,5 @@ method: sps2
 model size: small
 epochs: 10
 batch size: 50
-args: {'beta': 0.5, 'step_size': 0.1}
+args: {'beta': 0.5, 'step_size': 1.0}
 seed: 0
