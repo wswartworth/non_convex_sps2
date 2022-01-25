@@ -1,6 +1,6 @@
 data: MNIST
 method: adam
-model size: small
+model size: convex
 epochs: 10
 batch size: 50
 args: {}

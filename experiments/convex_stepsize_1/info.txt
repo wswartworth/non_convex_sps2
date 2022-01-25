@@ -1,0 +1,7 @@
+data: MNIST
+method: sps2
+model size: convex
+epochs: 10
+batch size: 50
+args: {'beta': 0.5, 'step_size': 1.0}
+seed: 0

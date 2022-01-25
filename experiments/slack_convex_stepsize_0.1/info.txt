@@ -1,0 +1,7 @@
+data: MNIST
+method: sps2slack
+model size: convex
+epochs: 10
+batch size: 50
+args: {'lmbda': 0.5, 'init_s': 1, 'beta': 0.01}
+seed: 0
