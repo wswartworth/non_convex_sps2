@@ -1,0 +1,7 @@
+data: MNIST
+method: sgd
+model size: medium
+epochs: 10
+batch size: 50
+args: {'lr': 0.1}
+seed: 0
